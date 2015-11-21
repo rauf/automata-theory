@@ -1,0 +1,4 @@
+S -> BC | AC | ABC | C | AAC | BAC | ABAC
+A -> Aa | a
+B -> Bb | b
+C -> c
